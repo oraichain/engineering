@@ -6,6 +6,9 @@
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 - [ ] Refactor (non-breaking change which pays tech debts)
+
+## Change awareness
+
 - [ ] I have read the **CONTRIBUTING** document.
 - [ ] My code follows the code style of this project.
 - [ ] My change requires a change to the documentation.
